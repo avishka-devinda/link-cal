@@ -18,7 +18,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${inter.className} font-sans`}>
+      <body className={` font-sans`}>
       <ThemeProvider
             attribute="class"
             defaultTheme="dark"
